@@ -3,6 +3,13 @@
 ## Background Problem
 This notebook was created to evaluate student grades based on manual input such as name, student ID, and exam score. It serves as a beginner-friendly exercise to understand the basics of variables, input/output, and conditional logic in Python.
 
+## Grading Criteria
+- 85–100 : A (Sangat Baik)
+- 70–84 : B (Baik)
+- 55–69 : C (Cukup)
+- 40–54 : D (Kurang)
+- 0–39 : E (Sangat Kurang)
+
 ## Insights
 - Using input() to collect user data.
 - Working with variables to store and manage data.
